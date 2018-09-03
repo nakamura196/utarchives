@@ -4,7 +4,7 @@ import json
 flg = True
 page = 1
 
-outputPath = "dump.json"
+outputPath = "../data/dump.json"
 
 result = []
 

@@ -4,7 +4,7 @@ import json
 flg = True
 page = 1
 
-outputPath = "collection.json"
+outputPath = "../data/collection.json"
 
 prefix = "https://webpark5029.sakura.ne.jp/uta/"
 
